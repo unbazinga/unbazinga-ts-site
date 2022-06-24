@@ -1,0 +1,27 @@
+{
+  "name": "unbazinga-but-in-ts",
+  "version": "0.0.1",
+  "description": "my site but I'm rewriting it in typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unbazinga/unbazinga-ts-site.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "unbazinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unbazinga/unbazinga-ts-site/issues"
+  },
+  "homepage": "https://github.com/unbazinga/unbazinga-ts-site#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "jQuery": "^1.7.4"
+  }
+}
